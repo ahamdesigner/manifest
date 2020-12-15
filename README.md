@@ -1,6 +1,6 @@
-# manifest
-manifestation logic
-import ahamdesigner/सर्वे from github
-manifestation identified and genuine then 
+# प्रत्यक्ष
+प्रत्यक्ष तर्कशास्त्र
+गुर्वर्थत्व सर्वे
+इच्छति वास्तविक समीकुरुते 
 इव अनुराग प्रार्थित अथवा दृश्य देवता निदधाति 
-തഥാസ്തു
+| തഥാസ്തു |
